@@ -1,0 +1,11 @@
+Model Information:
+* title:	battery
+* source:	https://sketchfab.com/3d-models/battery-b43b17a390b047b5a0169a24fa7b9d83
+* author:	DEVIL2GAMER (https://sketchfab.com/DEVIL2GAMER)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "battery" (https://sketchfab.com/3d-models/battery-b43b17a390b047b5a0169a24fa7b9d83) by DEVIL2GAMER (https://sketchfab.com/DEVIL2GAMER) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
